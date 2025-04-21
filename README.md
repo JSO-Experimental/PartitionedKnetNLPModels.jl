@@ -15,6 +15,10 @@
 [codecov-img]: https://codecov.io/gh/JuliaSmoothOptimizers/PartitionedKnetNLPModels.jl/branch/main/graph/badge.svg
 [codecov-url]: https://app.codecov.io/gh/JuliaSmoothOptimizers/PartitionedKnetNLPModels.jl
 
+## ⚠️ Deprecated Package
+
+This package is currently deprecated and no further maintenance or updates are planned. If you are interested in reviving or maintaining this package, feel free to reach out — we’d be happy to discuss or support such efforts.
+
 ## Motivation
 The module address a partially separable loss function, such as the neural network training minimize a partially separable loss function $f: \mathbb{R}^n \to \mathbb{R}$ in the form
 
